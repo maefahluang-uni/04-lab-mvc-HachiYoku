@@ -70,7 +70,7 @@ public class ConcertController {
         // TODO: redirect to list concerts
         concerts.clear();
         nextId=1;
-        return "redirect:/employees";
+        return "redirect:/concerts";
     }
 
 }
